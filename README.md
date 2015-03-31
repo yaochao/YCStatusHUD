@@ -1,2 +1,2 @@
 # YCStatusHUD
-自己学习的时候练习的一个轻量级HUD框架
+自己封装的一个轻量级HUD框架。功能类似SVProgressHUD。
